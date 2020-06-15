@@ -20,7 +20,9 @@ def pop_with_args(array)
   @small_dogs = @dog_breeds.pop(2)
 end
 
-using_shift(array)
+def using_shift(array)
+  @my_favorite_cities = [Lagos, ]
+
   
   
 
