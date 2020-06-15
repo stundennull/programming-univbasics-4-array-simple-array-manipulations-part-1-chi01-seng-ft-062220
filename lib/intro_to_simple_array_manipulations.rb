@@ -1,0 +1,1 @@
+def using_push(array, new_element)
