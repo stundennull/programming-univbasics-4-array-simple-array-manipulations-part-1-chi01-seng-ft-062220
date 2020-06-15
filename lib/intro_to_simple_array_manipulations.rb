@@ -10,7 +10,8 @@ def using_unshift(array, string)
   @updated_array = boroughs_in_nyc.unshift(@new_neighborhood)  
 end
 
-def using_pop
+def using_pop(array)
+  @continents = []
   
 
 
